@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-ts-2024",
+  "version": "1.0.0",
+  "description": "Repository with all events submitted for the event advent of typescript 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "type-testing": "^0.2.0",
+    "typescript": "^5.7.2"
+  }
+}

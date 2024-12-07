@@ -1,1 +1,0 @@
-type Demand = number;
